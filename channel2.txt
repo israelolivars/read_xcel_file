@@ -1,0 +1,37 @@
+cfgcli -g InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.ChannelsInUse
+
+cfgcli -s InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.Channel 001
+cfgcli -g InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.ChannelsInUse
+
+cfgcli -s InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.Channel 002
+cfgcli -g InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.ChannelsInUse
+
+cfgcli -s InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.Channel 003
+cfgcli -g InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.ChannelsInUse
+
+cfgcli -s InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.Channel 004
+cfgcli -g InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.ChannelsInUse
+
+cfgcli -s InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.Channel 005
+cfgcli -g InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.ChannelsInUse
+
+cfgcli -s InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.Channel 006
+cfgcli -g InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.ChannelsInUse
+
+cfgcli -s InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.Channel 007
+cfgcli -g InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.ChannelsInUse
+
+cfgcli -s InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.Channel 008
+cfgcli -g InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.ChannelsInUse
+
+cfgcli -s InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.Channel 009
+cfgcli -g InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.ChannelsInUse
+
+cfgcli -s InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.Channel 010
+cfgcli -g InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.ChannelsInUse
+
+cfgcli -s InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.Channel 011
+cfgcli -g InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.ChannelsInUse
+
+cfgcli -s InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.Channel 000
+cfgcli -g InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.ChannelsInUse

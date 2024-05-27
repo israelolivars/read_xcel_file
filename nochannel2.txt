@@ -1,0 +1,10 @@
+cfgcli -g InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.ChannelsInUse
+
+cfgcli -s InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.Channel 12
+cfgcli -g InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.ChannelsInUse
+
+cfgcli -s InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.Channel 13
+cfgcli -g InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.ChannelsInUse
+
+cfgcli -s InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.Channel 14
+cfgcli -g InternetGatewayDevice.LANDevice.1.WLANConfiguration.1.ChannelsInUse
